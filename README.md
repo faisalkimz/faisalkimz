@@ -10,7 +10,7 @@ I build scalable web applications, mobile apps, GIS platforms, cloud systems, da
 I work with technologies across backend, frontend, mobile, cloud, data analytics, and DevOps. I enjoy building products around forestry technology, environmental sustainability, geospatial intelligence, automation, and digital transformation.
 
 - 🌍 I'm based in Kampala, Uganda.
-- 📩 You can contact me at **your-email@example.com**
+- 📩 You can contact me at **mbabalifaisal2@gmail.com**
 - 🚀 I'm currently working on GIS, AI, and forestry technology solutions.
 - 🧠 I'm improving my skills in Cloud, DevOps, AI, and Data Engineering.
 - 🤝 I'm open to collaborating on impactful tech projects.
