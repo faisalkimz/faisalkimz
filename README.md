@@ -1,4 +1,4 @@
-# Hi 👋
+# Hi There?
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Faisal%20Kimz&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20GIS%20Engineer%20%7C%20AI%20Builder&descSize=20&descAlignY=55" />
 
@@ -61,12 +61,12 @@ I work with technologies across backend, frontend, mobile, cloud, data analytics
 
 | Area | Description |
 |---|---|
-| 🌍 GIS & Mapping | Geospatial analysis, mapping systems, and visualization |
-| 🌳 Forestry Technology | Environmental and forestry-focused software |
-| 🤖 AI & Automation | AI-powered workflow tools and automation |
-| 📱 Mobile Development | Flutter and Android applications |
-| ☁️ Cloud Solutions | AWS, GCP, Docker, Kubernetes, and CI/CD |
-| 📊 Data Engineering | ETL pipelines, dashboards, cleaning, and analytics |
+|  GIS & Mapping | Geospatial analysis, mapping systems, and visualization |
+|  Forestry Technology | Environmental and forestry-focused software |
+|  AI & Automation | AI-powered workflow tools and automation |
+|  Mobile Development | Flutter and Android applications |
+|  Cloud Solutions | AWS, GCP, Docker, Kubernetes, and CI/CD |
+|  Data Engineering | ETL pipelines, dashboards, cleaning, and analytics |
 
 ---
 
